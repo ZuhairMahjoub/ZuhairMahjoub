@@ -15,5 +15,5 @@
 ---
 
 ### 🔗 Connect with me
-- 🟦 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USER](https://linkedin.com/in/YOUR_LINKEDIN_USER)
+- 🟦 **LinkedIn:**[ http://linkedin.com/in/zouhair-mh-686813396]
 - 🟥 **Codeforces:**[ https://codeforces.com/profile/zouhairmh43]
