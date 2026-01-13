@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Zuhair 👋
 
-<!--
-**ZuhairMahjoub/ZuhairMahjoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🚀 **Back-End Developer:** Working with **Laravel** & **PHP**
+- 🏗️ **Software Engineering:** Strong foundations in **Java (OOP)** & **C++**
+- 🗄️ **Databases:** Proficient in **SQL** for data management
+- 🧩 **Problem Solving:** I enjoy solving coding challenges on **Codeforces**
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** PHP, Java, C++, SQL
+- **Frameworks:** Laravel
+- **Version Control:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+---
+
+### 🔗 Connect with me
+- 🟦 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USER](https://linkedin.com/in/YOUR_LINKEDIN_USER)
+- 🟥 **Codeforces:**[ https://codeforces.com/profile/zouhairmh43]
