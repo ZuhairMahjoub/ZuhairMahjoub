@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Zuhair Mahjoub
 
-### Backend Engineer transitioning into AI / Machine Learning
+### Backend & AI Engineer
 
-I build scalable backend systems with **Laravel** and I'm now applying that foundation to **AI/ML**: training models in **Python** and serving them through clean, production-ready APIs.
+I build scalable backend systems with **Laravel** and develop **AI/ML** solutions with **Python**, from training models to serving them through clean, production-ready APIs.
 
 ---
 
