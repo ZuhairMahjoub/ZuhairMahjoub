@@ -1,42 +1,50 @@
-### Hi there, I'm Zuhair 👋
+# 👋 Hi, I'm Zuhair Mahjoub
 
-**Back-End Developer**
+### Backend Engineer transitioning into AI / Machine Learning
 
-I specialize in building robust backend systems and RESTful APIs with **Laravel** and **PHP**, backed by solid database management and clean architecture.
+I build scalable backend systems with **Laravel** and I'm now applying that foundation to **AI/ML**: training models in **Python** and serving them through clean, production-ready APIs.
 
 ---
 
-### 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 | Category | Technologies |
-| :--- | :--- |
-| **Backend & Languages** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| **DevOps & Environment** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| **Tools & Version Control** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+|---|---|
+| **Backend & Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
+| **AI & Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Deep Learning** *(in progress)* | ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **DevOps & Environment** | ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Tools & Version Control** | ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ---
 
-### 📊 Featured Projects
+## 📊 Featured Projects
 
 | Project | Description | Tech Stack |
-| :--- | :--- | :--- |
+|---|---|---|
 | **Aura Events** | A comprehensive event organization system featuring backend API controllers, real-time messaging, and booking logic. | Laravel, PHP, MySQL |
-| **Booking-App** | A comprehensive Real Estate marketplace for buying, selling, and renting properties with advanced listings and filtering options. | Laravel, PHP, MySQL |
+| **Booking-App** | A comprehensive real estate marketplace for buying, selling, and renting properties with advanced listings and filtering options. | Laravel, PHP, MySQL |
 | **Monostyle** | An e-commerce marketplace platform simulating online retail operations using pessimistic locking and atomic transactions. | Laravel, MySQL |
 
----
-
-### 📈 What I'm Up To
-
-- **Current Focus:** Building scalable backend architectures and integrating containerized environments using Docker.
-- **Problem Solving:** Regularly practicing and solving coding challenges on Codeforces.
-- **Ask me about:** Laravel optimization, database relations, or RESTful API design.
+<!-- Add your first AI/ML project here, for example:
+| **Project Name** | Short description: problem, model, evaluation result, and how it's served (API). | Python, Scikit-learn, FastAPI, Docker |
+-->
 
 ---
 
-### 📬 Connect with me
+## 📈 What I'm Up To
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/zouhair-mh-686813396)
-[![Codeforces](https://img.shields.io/badge/codeforces-%231f8acb.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/zouhairmh43)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zouhairmh43@gmail.com)
+- **Current Focus:** Building AI/ML systems and deploying them behind scalable backend APIs (Laravel + Python + Docker).
+- **Learning:** Deep Learning (in progress), model deployment, and MLOps fundamentals.
+- **Problem Solving:** Regularly solving coding challenges on Codeforces.
+- **Ask me about:** Machine learning, Laravel optimization, database design, or RESTful API design.
+
+---
+
+## 📫 Connect with me
+
+<!-- Replace the links below with your own -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR-USERNAME)
